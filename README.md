@@ -23,6 +23,7 @@ This repository serves as a reference for the practical part of the "Software De
 If you're a student enrolled in the course, please check this repository for practical exercises, code samples, and projects related to the course. For the complete course materials, please refer to the official documentation provided by the university.
 
 I look forward to an engaging and enriching practical learning experience in the field of software development and documentation. Let's use this repository for reference and to enhance our practical skills. 🧠
+
 Happy coding!
 
 -   Humaka
