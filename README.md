@@ -1,6 +1,6 @@
 # Software Development and Documentation Course Repository
 
-Welcome to the repository for the "Software Development and Documentation" course at the Applied Science University, Amman - Jordan.
+Welcome to the repository for the Software Development and Documentation course at the Applied Science University, Amman - Jordan.
 
 ## Course Overview
 
@@ -10,7 +10,7 @@ This repository serves as a reference for the practical part of the "Software De
 
 ## Key Points
 
--   **Purpose**: This repository is intended for students taking the "Software Development and Documentation" course at the Applied Science University, Amman, Jordan. It provides a platform for referencing practical code and project-related materials.
+-   **Purpose**: This repository is intended for students taking the Software Development and Documentation course at the Applied Science University, Amman - Jordan. It provides a platform for referencing practical code and project-related materials.
 
 -   **Collaboration**: Please note that this repository is for reference only and does not accept contributions from external users.
 
