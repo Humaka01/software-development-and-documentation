@@ -4,7 +4,7 @@ Welcome to the repository for the Software Development and Documentation course 
 
 ## Course Overview
 
-This repository serves as a reference for the practical part of the "Software Development and Documentation" course. Please note that this repository contains code, projects, and practical materials, but it does not include the full course materials. You will find valuable information and resources related to the practical aspects of the course.
+This repository serves as a reference for the practical part of the Software Development and Documentation course. Please note that this repository contains code, projects, and practical materials, but it does not include the full course materials. You will find valuable information and resources related to the practical aspects of the course.
 
 **Course Materials**: This repository contains practical exercises, code samples, and projects that complement the course. For the complete course materials, please refer to the official course documentation provided by the university.
 
