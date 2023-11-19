@@ -1,6 +1,6 @@
 # Markdown Quick Guide
 
-## Headings
+## 1. Headings
 
 To create headings in Markdown, use the `#` symbol followed by a space. Heading levels are indicated by the number of `#` symbols. For example:
 
@@ -12,7 +12,7 @@ To create headings in Markdown, use the `#` symbol followed by a space. Heading 
 ##### Heading 5 - Which is same as **Bold**
 ```
 
-## Emphasis
+## 2. Emphasis
 Emphasize text using bold or italic styles:
 - **Bold Text**: Surround the desired text with double asterisks `**` on each side.
 ```markdown
@@ -22,7 +22,7 @@ Emphasize text using bold or italic styles:
 ```markdown
 _Italic Text_
 ```
-##Lists
+## 3. Lists
 Markdown supports both ordered and unordered lists:
 - **Ordered List**: Use numbers followed by a period, and Markdown will recognize it as an ordered list, for example:
 ```markdown
@@ -37,16 +37,19 @@ will be rendered as follows:
 - Item A
 - Item B
 ```
+
 will be rendered as:
 - Item A
 - Item B
-## Links
+- 
+## 4. Links
 Insert links using the following syntax:
 - **Inline Links**: Place clickable text in square brackets, followed by the link in parentheses.
 ```markdown
 [Google](https://www.google.com/)
 ```
-## Images
+
+## 5. Images
 Include images in your Markdown document with the following formats:
 - **Absolute Link Example:**
 ```markdown
@@ -65,7 +68,7 @@ will be rendered as:
 ![ASU Logo](images/ASU-Logo.png)
 
 _* Remember to ensure correct folder structures and relative paths when using images._
-## Adding a New Line
+## 6. Adding a New Line
 To insert a new line, you can use the `<br>` tag.
 
 For example, the following Markdown code:
@@ -78,7 +81,7 @@ This is the first line.
 This is the second line.
 ```
 
-## Code Blocks with Triple Backticks
+## 7. Code Blocks with Triple Backticks
 
 To show code or text in a neat block, just use triple backticks (```). You can do it in two ways: with or without specifying the language.
 
@@ -86,9 +89,9 @@ To show code or text in a neat block, just use triple backticks (```). You can d
 For example, the following code:
 
 ```
-```
+\```
 This is a code block without language specification.
-```
+\```
 ```
 will be rendered as:
 ```
