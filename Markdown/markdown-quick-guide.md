@@ -129,9 +129,9 @@ Code example: `myFunction()`
 To format text as code: `word`.
 To format a single character as code: `p`
 ```
-When rendered in Markdown, it will appear as:
-Code example: `myFunction()`
-To format text as code: `word`.
+When rendered in Markdown, it will appear as:<br>
+Code example: `myFunction()`<br>
+To format text as code: `word`.<br>
 To format a single character as code: `p`
 
 _* Using single backticks allows you to incorporate code elements seamlessly into your sentences._
