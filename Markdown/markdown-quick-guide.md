@@ -49,6 +49,7 @@ Insert links using the following syntax:
 [Google](https://www.google.com/)
 ```
 will be rendered:
+
 [Google](https://www.google.com/)
 
 ## 5. Images
