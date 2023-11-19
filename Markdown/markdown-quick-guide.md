@@ -41,13 +41,15 @@ will be rendered as follows:
 will be rendered as:
 - Item A
 - Item B
-- 
+
 ## 4. Links
 Insert links using the following syntax:
-- **Inline Links**: Place clickable text in square brackets, followed by the link in parentheses.
+- **Inline Links**: Place clickable text in square brackets, followed by the link in parentheses, for instance:
 ```markdown
 [Google](https://www.google.com/)
 ```
+will be rendered:
+[Google](https://www.google.com/)
 
 ## 5. Images
 Include images in your Markdown document with the following formats:
