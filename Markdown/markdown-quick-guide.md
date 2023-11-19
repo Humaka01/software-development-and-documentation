@@ -56,6 +56,7 @@ will be rendered as:
 ![ASU Logo](images/ASU-Logo.png)
 ```
 will be rendered as:
+
 ![ASU Logo](images/ASU-Logo.png)
 
 _* Remember to ensure correct folder structures and relative paths when using images._
