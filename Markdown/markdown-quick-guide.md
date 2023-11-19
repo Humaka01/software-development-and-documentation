@@ -57,6 +57,7 @@ will be rendered as:
 ```
 will be rendered as:
 ![ASU Logo](images/ASU-Logo.png)
+
 _* Remember to ensure correct folder structures and relative paths when using images._
 ## Adding a New Line
 To insert a new line, you can use the `<br>` tag.
