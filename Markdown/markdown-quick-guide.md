@@ -8,7 +8,10 @@ To create headings in Markdown, use the `#` symbol followed by a space. Heading 
 # Heading 1
 ## Heading 2
 ### Heading 3
+#### Heading 4
+##### Heading 5 - Which is same as **Bold**
 ```
+
 ## Emphasis
 Emphasize text using bold or italic styles:
 - **Bold Text**: Surround the desired text with double asterisks `**` on each side.
@@ -50,7 +53,9 @@ Include images in your Markdown document with the following formats:
 ![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
 ```
 will be rendered as:
+
 ![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
+
 - **Relative Link Example:**
 ```markdown
 ![ASU Logo](images/ASU-Logo.png)
@@ -81,9 +86,9 @@ To show code or text in a neat block, just use triple backticks (```). You can d
 For example, the following code:
 
 ```
-\```
+```
 This is a code block without language specification.
-\```
+```
 ```
 will be rendered as:
 ```
