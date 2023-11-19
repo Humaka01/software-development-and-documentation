@@ -16,6 +16,6 @@ To add a heading, we need to put # in front of the heading title that we want to
 - We can insert inline links by writing the clickable text in square brackets then putting the link right after it in curved brackets like this: [Google] (link_here)
 and the result will be like this: [Google](https://www.google.com/)
 - We can insert images by inserting an exclamation mark then writing the clickable text in square brackets then putting the link right after it in curved brackets like this: [Image] (image_link_here), absolute link example:
-- ![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
+![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
 - Relative link example:
 ![ASU Logo](images/ASU-Logo.png)
