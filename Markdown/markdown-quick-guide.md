@@ -69,6 +69,7 @@ will be rendered as:
 
 ![ASU Logo](images/ASU-Logo.png)
 
+_* `[ASU Logo]` is the alternative text that will show up if the image is not available, so you can replace it with anything that gives meaning to your image._
 _* Remember to ensure correct folder structures and relative paths when using images._
 ## 6. Adding a New Line
 To insert a new line, you can use the `<br>` tag.
