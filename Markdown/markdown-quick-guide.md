@@ -86,7 +86,7 @@ This is the first line.
 This is the second line.
 ```
 
-## 7. Code Blocks with Triple Backticks
+## 7. Code Blocks
 
 To show code or text in a neat block, just use triple backticks (```). You can do it in two ways: with or without specifying the language.
 
@@ -102,7 +102,6 @@ will be rendered as:
 ```
 This is a code block without language specification.
 ```
-
 - **With Language Specification:**
 You can specify the language by adding it after the initial triple backticks (```), for instance:
 
@@ -135,3 +134,38 @@ To format text as code: `word`.<br>
 To format a single character as code: `p`
 
 _* Using single backticks allows you to incorporate code elements seamlessly into your sentences._
+
+- **Blockquotes:**
+To add a simple comment or block of nicely organized text we could use the `>` symbol, for example:
+```
+> This is a comment
+```
+will be rendered as:
+> This is a comment
+
+## 8. Tables
+To create a simple table in markdown use the following format:
+
+```
+|Header 1|Header 2| Header 3|
+|-----------|-----------|-----------|
+|Content 1|Content 2|Content 3|
+```
+will be rendered as:
+|Header 1|Header 2| Header 3|
+|-----------|-----------|-----------|
+|Content 1|Content 2|Content 3|
+
+## 9. Tasks list
+You can insert task list items using the following format:
+```
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
+```
+> Don't forget to put in a space in between the brackets if you want the item not to be ticked, otherwise it will not render correctly.
+
+will be rendered as follows"
+- [x] Task 1
+- [x] Task 2
+- [ ]  Task 3
