@@ -56,11 +56,11 @@ will be rendered:
 Include images in your Markdown document with the following formats:
 - **Absolute Link Example:**
 ```markdown
-![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
+![ASU Logo](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3Ks1FXaeWtNa8yHErHzQfA%2F592ee709464f16de0bae5d62f642142a%2Fbengal_cat__1_.jpg&w=640&q=75)
 ```
 will be rendered as:
 
-![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
+![ASU Logo](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3Ks1FXaeWtNa8yHErHzQfA%2F592ee709464f16de0bae5d62f642142a%2Fbengal_cat__1_.jpg&w=640&q=75)
 
 - **Relative Link Example:**
 ```markdown
