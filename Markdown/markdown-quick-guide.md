@@ -60,7 +60,7 @@ Include images in your Markdown document with the following formats:
 ```
 will be rendered as:
 
-![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
+![ASU Logo](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png?raw=true)
 
 - **Relative Link Example:**
 ```markdown
