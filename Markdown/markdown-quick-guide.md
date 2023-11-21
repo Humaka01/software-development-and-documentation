@@ -168,7 +168,7 @@ You can insert task list items using the following format:
 ```
 >Don't forget to put in a space in between the brackets if you want the item not to be ticked, otherwise it will not render correctly.
 
-will be rendered as follows"
+will be rendered as follows:
 - [x] Task 1
 - [x] Task 2
 - [ ]  Task 3
