@@ -1,3 +1,4 @@
+
 # Markdown Quick Guide
 
 ## 1. Headings
@@ -10,6 +11,7 @@ To create headings in Markdown, use the `#` symbol followed by a space. Heading 
 ### Heading 3
 #### Heading 4
 ##### Heading 5 - Which is same as **Bold**
+###### Heading 6
 ```
 
 ## 2. Emphasis
@@ -56,11 +58,13 @@ will be rendered:
 Include images in your Markdown document with the following formats:
 - **Absolute Link Example:**
 ```markdown
-![ASU Logo](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3Ks1FXaeWtNa8yHErHzQfA%2F592ee709464f16de0bae5d62f642142a%2Fbengal_cat__1_.jpg&w=640&q=75)
+![bengali-cat](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3Ks1FXaeWtNa8yHErHzQfA%2F592ee709464f16de0bae5d62f642142a%2Fbengal_cat__1_.jpg&w=640&q=75)
 ```
 will be rendered as:
 
-![ASU Logo](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3Ks1FXaeWtNa8yHErHzQfA%2F592ee709464f16de0bae5d62f642142a%2Fbengal_cat__1_.jpg&w=640&q=75)
+![bengali-cat](https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3Ks1FXaeWtNa8yHErHzQfA%2F592ee709464f16de0bae5d62f642142a%2Fbengal_cat__1_.jpg&w=640&q=75)
+
+>**`[bengali-cat]`** is the alternative text that will show up if the image is not available, so you can replace it with anything that gives meaning to your image.
 
 - **Relative Link Example:**
 ```markdown
@@ -70,9 +74,8 @@ will be rendered as:
 
 ![ASU Logo](images/ASU-Logo.png)
 
-_* `[ASU Logo]` is the alternative text that will show up if the image is not available, so you can replace it with anything that gives meaning to your image._
+>Remember to ensure correct folder structures and relative paths when using images.
 
-_* Remember to ensure correct folder structures and relative paths when using images._
 ## 6. Adding a New Line
 To insert a new line, you can use the `<br>` tag.
 
@@ -163,7 +166,7 @@ You can insert task list items using the following format:
 - [x] Task 2
 - [ ] Task 3
 ```
-> Don't forget to put in a space in between the brackets if you want the item not to be ticked, otherwise it will not render correctly.
+>Don't forget to put in a space in between the brackets if you want the item not to be ticked, otherwise it will not render correctly.
 
 will be rendered as follows"
 - [x] Task 1
