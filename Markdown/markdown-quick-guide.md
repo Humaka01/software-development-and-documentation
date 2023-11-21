@@ -136,7 +136,7 @@ Code example: `myFunction()`<br>
 To format text as code: `word`.<br>
 To format a single character as code: `p`
 
-_* Using single backticks allows you to incorporate code elements seamlessly into your sentences._
+> Using single backticks allows you to incorporate code elements seamlessly into your sentences.
 
 - **Blockquotes:**
 To add a simple comment or block of nicely organized text we could use the `>` symbol, for example:
