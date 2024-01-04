@@ -1,6 +1,8 @@
 # Software Development and Documentation Course Repository
 
-Welcome to the repository for the Software Development and Documentation course at the Applied Science University, Amman - Jordan.
+![Software Documentation Representation](Markdown/images/sdd.png)
+
+Welcome to the repository for the Software Development and Documentation course at the Applied Science Private University, Amman - Jordan.
 
 ## Course Overview
 
@@ -10,13 +12,13 @@ This repository serves as a reference for the practical part of the Software Dev
 
 ## Key Points
 
--   **Purpose**: This repository is intended for students taking the Software Development and Documentation course at the Applied Science University, Amman - Jordan. It provides a platform for referencing practical code and project-related materials.
+- **Purpose**: This repository is intended for students taking the Software Development and Documentation course at the Applied Science University, Amman - Jordan. It provides a platform for referencing practical code and project-related materials.
 
--   **Collaboration**: Please note that this repository is for reference only and does not accept contributions from external users.
+- **Collaboration**: Please note that this repository is for reference only and does not accept contributions from external users.
 
--   **License**: Unless otherwise stated, the materials in this repository are typically shared under an open-source license to facilitate knowledge sharing and reference.
+- **License**: Unless otherwise stated, the materials in this repository are typically shared under an open-source license to facilitate knowledge sharing and reference.
 
--   **Feedback**: I welcome feedback and suggestions related to the practical exercises and projects. If you have any questions or ideas for improvement, please don't hesitate to reach out.
+- **Feedback**: I welcome feedback and suggestions related to the practical exercises and projects. If you have any questions or ideas for improvement, please don't hesitate to reach out.
 
 ## Getting Started
 
@@ -26,4 +28,4 @@ I look forward to an engaging and enriching practical learning experience in the
 
 Happy coding!
 
--   Humaka
+- Humaka
