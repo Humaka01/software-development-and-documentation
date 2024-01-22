@@ -62,5 +62,5 @@ Now that you have an overview of ProcessWire and the purpose of this User Guide,
 5. **Buttons and Icons**: Features common action buttons and icons for various functions.
    ![screenshot_highlighting_buttons_and_icons]()
 
-6. **Context Menus**: Provide additional options when right-clicking on items, such as pages in the content tree.
-   ![screenshot_illustrating_context_menus]()
+6. **Context Menus**: Provide additional options when hovering over items, such as pages in the content tree.
+   ![screenshot_illustrating_context_menus](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/screenshot_illustrating_context_menus.png)
