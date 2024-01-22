@@ -48,7 +48,7 @@ Now that you have an overview of ProcessWire and the purpose of this User Guide,
 ### 1. Main Interface
 
 1. **Navigation Menu**: Provides access to various sections, including Dashboard, Pages, Setup, Modules, Access, and Admin.
-   ![screenshot_displaying_the_navigation_menu]()
+   ![screenshot_displaying_the_navigation_menu](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/screenshot_displaying_the_navigation_menu.png)
 
 2. **Dashboard**: Offers an overview of recent website activity, system health, and site statistics.
    ![screenshot_illustrating_the_dashboard]()
