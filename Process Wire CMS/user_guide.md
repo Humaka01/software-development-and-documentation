@@ -73,5 +73,6 @@ The "Admin" section provides general administrative tools and settings for your 
 - **Adding New Users, Roles, and Permissions:** To expand your user base or tailor permissions, you can effortlessly add new users, roles, or permissions. Simply click on the corresponding option to initiate the addition process.
 
 - **Modifying Existing Users and Roles:** For users or roles that require adjustments, you can make modifications by selecting the respective user or role and editing their permissions.
+![edit_users](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/edit_users.png)
 
 This flexible system ensures precise control over user access and security, enabling you to fine-tune permissions according to your specific needs.
