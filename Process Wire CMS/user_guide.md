@@ -62,3 +62,16 @@ The "Access" section is where you control user access to different parts of your
 
 5. **Admin:**
 The "Admin" section provides general administrative tools and settings for your ProcessWire installation. This includes managing user accounts, configuring admin themes, and controlling system-wide settings. It's where you can customize the appearance and behavior of the admin interface to suit your preferences.
+
+## User Permissions and Security
+
+- **Access Management:** Access management is accessible by clicking on the "Access" section. This section allows you to control user roles and permissions.
+![access]()
+
+- **User Roles Assignment:** Within the "Users" subsection, you can assign roles to individual users. Each role corresponds to a specific set of permissions.
+
+- **Adding New Users, Roles, and Permissions:** To expand your user base or tailor permissions, you can effortlessly add new users, roles, or permissions. Simply click on the corresponding option to initiate the addition process.
+
+- **Modifying Existing Users and Roles:** For users or roles that require adjustments, you can make modifications by selecting the respective user or role and editing their permissions.
+
+This flexible system ensures precise control over user access and security, enabling you to fine-tune permissions according to your specific needs.
