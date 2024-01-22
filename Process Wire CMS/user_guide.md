@@ -65,6 +65,9 @@ The "Admin" section provides general administrative tools and settings for your 
 
 ## User Permissions and Security
 
+- **Admin Settings:** In this section, you can change the admin password, optionally add an email address, and customize the admin panel theme to suit your preferences.
+![admin_settings](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/admin_settings.png)
+
 - **Access Management:** Access management is accessible by clicking on the "Access" section. This section allows you to control user roles and permissions.
 ![access](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/access.png)
 
