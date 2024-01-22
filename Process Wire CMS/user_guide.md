@@ -22,9 +22,7 @@ The purpose of this User Guide is to provide comprehensive documentation and ste
 
 This guide will cover various aspects of ProcessWire, including installation, configuration, content management, and more. By the end of this guide, you should have a solid understanding of how to create, maintain, and optimize websites using ProcessWire.
 
-### 3. Target Audience and Prerequisites
-
-#### Target Audience
+### 3. Target Audience
 
 This User Guide is intended for the following audience:
 
@@ -32,7 +30,7 @@ This User Guide is intended for the following audience:
 - Content Creators: Users responsible for creating and managing content on websites powered by ProcessWire.
 - Administrators: Individuals tasked with configuring and maintaining the CMS, managing user accounts, and overseeing website functionality.
 
-#### Prerequisites
+### 4. Prerequisites
 
 Before you begin using this guide, you should have:
 
@@ -46,3 +44,23 @@ Now that you have an overview of ProcessWire and the purpose of this User Guide,
 **Next Section:** [Installation Manual](Process%20Wire%20CMS%20Installation%20Manual.docx)
 
 ## User Interface Overview
+
+### 1. Main Interface
+
+1. **Navigation Menu**: Provides access to various sections, including Dashboard, Pages, Setup, Modules, Access, and Admin.
+   ![screenshot_displaying_the_navigation_menu]()
+
+2. **Dashboard**: Offers an overview of recent website activity, system health, and site statistics.
+   ![screenshot_illustrating_the_dashboard]()
+
+3. **Content Tree**: Displays the hierarchical structure for managing website pages.
+   ![screenshot_showcasing_the_content_tree]()
+
+4. **Content Preview**: Shows a real-time preview of selected content for editing and review.
+   ![screenshot_demonstrating_the_content_preview]()
+
+5. **Buttons and Icons**: Features common action buttons and icons for various functions.
+   ![screenshot_highlighting_buttons_and_icons]()
+
+6. **Context Menus**: Provide additional options when right-clicking on items, such as pages in the content tree.
+   ![screenshot_illustrating_context_menus]()
