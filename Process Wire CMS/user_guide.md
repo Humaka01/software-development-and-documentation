@@ -41,7 +41,7 @@ Before you begin using this guide, you should have:
 
 Now that you have an overview of ProcessWire and the purpose of this User Guide, let's proceed with the installation process.
 
-**Next Section:** [Installation Manual](Process%20Wire%20CMS%20Installation%20Manual.docx)
+**Next Section:** [Installation Manual]([Process%20Wire%20CMS%20Installation%20Manual.docx](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/Process%20Wire%20CMS%20Installation%20Manual.docx))
 
 ## User Interface Overview
 
