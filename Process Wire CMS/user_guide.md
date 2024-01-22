@@ -39,28 +39,26 @@ Before you begin using this guide, you should have:
 - PHP installed on your server (ProcessWire requires PHP 7.0 or higher).
 - A MySQL database or compatible database system for storing website content.
 
-Now that you have an overview of ProcessWire and the purpose of this User Guide, let's proceed with the installation process.
-
-**Next Section:** [Installation Manual](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/Process%20Wire%20CMS%20Installation%20Manual.docx)
+Now that you have an overview of ProcessWire and the purpose of this User Guide, you can proceed with the installation process using the instructions provided in the [Installation Manual](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/Process%20Wire%20CMS%20Installation%20Manual.docx).
 
 ## User Interface Overview
 
 ### 1. Main Interface
 
-1. **Navigation Menu**: Provides access to various sections, including Pages, Setup, Modules, Access, and Admin.
+**Navigation Menu**: Provides access to various sections, including Pages, Setup, Modules, Access, and Admin.
    ![screenshot_displaying_the_navigation_menu](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/screenshot_displaying_the_navigation_menu.png)
 
-2. **Dashboard**: Offers an overview of recent website activity, system health, and site statistics.
-   ![screenshot_illustrating_the_dashboard]()
+1. **Pages:**
+The "Pages" section is where you manage the content and structure of your website. You can create, edit, and organize pages here. Pages in ProcessWire can represent anything from individual articles or blog posts to entire sections of your site. You can also set templates, titles, and other page attributes in this section.
 
-3. **Content Tree**: Displays the hierarchical structure for managing website pages.
-   ![screenshot_showcasing_the_content_tree](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/screenshot_showcasing_the_content_tree.png)
+2. **Setup:**
+The "Setup" section is where you configure and customize the settings and modules for your ProcessWire website. This is where you can manage fields, templates, and modules that control how your site functions. You can also configure site settings, user roles, and permissions in this section.
 
-4. **Content Preview**: Shows a real-time preview of selected content for editing and review.
-   ![screenshot_demonstrating_the_content_preview]()
+3. **Modules:**
+In the "Modules" section, you can add, configure, and manage various modules that extend the functionality of your ProcessWire website. Modules are like plugins or extensions that can add features such as SEO tools, e-commerce functionality, or integration with third-party services. This section allows you to enable, disable, and configure these modules to suit your site's needs.
 
-5. **Buttons and Icons**: Features common action buttons and icons for various functions.
-   ![screenshot_highlighting_buttons_and_icons]()
+4. **Access:**
+The "Access" section is where you control user access to different parts of your website. You can define user roles and permissions, manage user accounts, and set up authentication methods. This section is essential for maintaining security and ensuring that only authorized users can perform specific actions on your site.
 
-6. **Context Menus**: Provide additional options when hovering over items, such as pages in the content tree.
-   ![screenshot_illustrating_context_menus](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/screenshot_illustrating_context_menus.png)
+5. **Admin:**
+The "Admin" section provides general administrative tools and settings for your ProcessWire installation. This includes managing user accounts, configuring admin themes, and controlling system-wide settings. It's where you can customize the appearance and behavior of the admin interface to suit your preferences.
