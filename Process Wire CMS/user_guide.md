@@ -63,6 +63,35 @@ The "Access" section is where you control user access to different parts of your
 5. **Admin:**
 The "Admin" section provides general administrative tools and settings for your ProcessWire installation. This includes managing user accounts, configuring admin themes, and controlling system-wide settings. It's where you can customize the appearance and behavior of the admin interface to suit your preferences.
 
+## Features and Functionality
+
+- **Create a Template:**
+  To begin, navigate to the "Setup" section and click on "Templates." Add a new template by following the on-screen instructions and provide a name for your template. You can also duplicate an existing template if needed.
+![new_template](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/new_template.png)
+
+- **Define Template Fields:**
+  Next, customize your template by adding fields that represent the content elements you want to include in pages using this template in the future.
+
+- **Configure Template Settings:**
+  Adjust template settings such as access, family, URLs, and more to meet your specific requirements. Once done, save the template, and it will be ready for use.
+![new_template_edit](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/new_template_edit.png)
+
+- **Add a New Page:**
+  To create a new page, go to the "Pages" section and select "Add New Page" as illustrated in the provided image.
+![new_page](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/new_page.png)
+
+- **Utilize Your Template:**
+  Choose the template you've just created, provide a title, and the name will be generated automatically. Click "Save" to create the page.
+![new_page_edit](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/new_page_edit.png)
+
+- **Edit and Publish:**
+  You can now edit the newly created page by adding content and adjusting settings. Make any necessary changes, and when ready, click "Publish" to make the page live.
+![publish](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/publish.png)
+
+- **Manage Your Pages:**
+  Navigate back to the "Pages" section to view all your pages, including the one you've just created.
+![published_page](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/published_page.png)
+
 ## User Permissions and Security
 
 - **Admin Settings:** In this section, you can change the admin password, optionally add an email address, and customize the admin panel theme to suit your preferences.
@@ -79,3 +108,11 @@ The "Admin" section provides general administrative tools and settings for your 
 ![edit_users](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/edit_users.png)
 
 This flexible system ensures precise control over user access and security, enabling you to fine-tune permissions according to your specific needs.
+
+## Support and Contact Information
+
+- **Community Forum:** Visit the [forum](https://processwire.com/talk/) to engage with ProcessWire's community, ask questions, and get help from fellow users.
+
+- **Documentation:** Explore the comprehensive [documentation](https://processwire.com/docs/) for in-depth information on using ProcessWire and its features.
+
+- **Video Tutorials:** Watch my video tutorial on [YouTube](www.youtube.com) to learn how to get started using ProcessWire.
