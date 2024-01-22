@@ -66,7 +66,7 @@ The "Admin" section provides general administrative tools and settings for your 
 ## User Permissions and Security
 
 - **Access Management:** Access management is accessible by clicking on the "Access" section. This section allows you to control user roles and permissions.
-![access]()
+![access](https://github.com/Humaka01/software-development-and-documentation/blob/main/Process%20Wire%20CMS/screenshots/access.png)
 
 - **User Roles Assignment:** Within the "Users" subsection, you can assign roles to individual users. Each role corresponds to a specific set of permissions.
 
